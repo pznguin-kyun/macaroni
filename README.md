@@ -1,5 +1,5 @@
 # macaroni
-🎨 a simple colorscheme for terminal and software
+🎨 a simple base16 colorscheme for terminal and software
 
 # palettes
 | dark | light |
