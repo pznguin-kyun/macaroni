@@ -1,5 +1,5 @@
 # macaroni
-🎨 a simple base16 colorscheme for terminal and software
+🎨 a simple base16 colorscheme for terminal and software inspired by the macaroni penguin
 
 # palettes
 | dark | light |
