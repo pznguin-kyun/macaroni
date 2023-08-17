@@ -16,10 +16,10 @@ Bold=true
 # --- standard colors ---
 
 [Color0]
-Color=8,8,8
+Color=36,36,36
 
 [Color0Intense]
-Color=16,16,16
+Color=50,50,50
 
 [Color1]
 Color=255,137,137
@@ -66,6 +66,6 @@ Color=255,255,255
 # --- general options ---
 
 [General]
-Description=macaroni-dark
+Description=terminal.sexy
 Opacity=1
 Wallpaper=

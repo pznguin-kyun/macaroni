@@ -1,8 +1,8 @@
 BackgroundColour=16,16,16
 ForegroundColour=248,248,246
 CursorColour=248,248,246
-Black=8,8,8
-BoldBlack=16,16,16
+Black=36,36,36
+BoldBlack=50,50,50
 Red=255,137,137
 BoldRed=255,152,152
 Green=242,255,138
