@@ -4,7 +4,7 @@
 # palettes
 | dark | light |
 | :----- | :---- |
-![dark](https://i.imgur.com/VTWcBmg.png) | soon |
+![dark](https://i.imgur.com/TW3li9a.png) | soon |
 
 # ports
 macaroni ported software, terminal are available [here](https://github.com/p3nguin-kun/macaroni/tree/main/ports)
